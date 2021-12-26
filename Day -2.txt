@@ -1,0 +1,24 @@
+1.     javascript is programming language that             NodeJS is a javascript runtime
+       is used or writing scripts on the website           environment.
+
+       Javascript can only run in the browsers             We can run JS outside the browers 
+                                                           with help of NodeJS.
+
+       It's basically used on the client-side              It is mostly used on the server-side
+
+       JS is capable enough to add HTML tags               NodeJS does not have capability to
+       and play with the DOM                               add HTML tags.
+
+       JS is used in front-end development                 NodeJS is used in server-side development.
+
+
+
+2.     a.'number'
+       b.'number'
+       c.'string'
+       d.'boolean'
+       e.'object'
+       f.'undefined'
+       g.'object'
+       h.'object'
+       i.'number'
