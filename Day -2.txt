@@ -10,10 +10,26 @@
        and play with the DOM                               add HTML tags.
 
        JS is used in front-end development                 NodeJS is used in server-side development.
+       
+2.     1. scripate the bootom
+           - Parse uninterrupted
+           - Faster to render
+           - Defer and async attributes
+           - TRade odd
+
+       2. CSS parsing
+           - The CSS parser has to read nested selectors from right-to-left 
+             in order to guarantee that they end up underneath the correct nodes.
+
+       3. DOM Node to render object
+           - Visual output
+           - Geometric info
+           - Can layout and paint
+           - Holds style & computed metrics
 
 
 
-2.     a.'number'
+4.     a.'number'
        b.'number'
        c.'string'
        d.'boolean'
@@ -22,3 +38,5 @@
        g.'object'
        h.'object'
        i.'number'
+       
+5. Prototypes are the mechanism by which JavaScript objects inherit features from one another.
